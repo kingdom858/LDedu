@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="LDedu"
+  id="myeclipse.1469080422219"
+  context-root="/LDedu"
+  j2ee-spec="5.0"
+  archive="LDedu.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
